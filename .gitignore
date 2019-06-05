@@ -1,6 +1,5 @@
 /.vagrant
 *~
-*.rpm
 /*/output
 
 /daily/suricata.tar.gz
